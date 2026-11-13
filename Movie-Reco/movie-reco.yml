@@ -1,0 +1,6 @@
+name: movie-reco
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+prefix: /home/hugogt/anaconda3/envs/movie-reco
